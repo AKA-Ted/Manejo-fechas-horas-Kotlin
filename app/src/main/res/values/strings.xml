@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Fechas</string>
+    <string name="hora">Hora (hh:mm)</string>
+    <string name="fecha_del_pasado">Fecha Del Pasado (dd/mm/aaaa)</string>
+    <string name="fecha_hora_del_futuro">Fecha y hora del Futuro (dd/mm/aaaa HH:mm )</string>
+    <string name="action_procesar">Procesar</string>
+    <string name="action_limpiar">Limpiar</string>
+</resources>
