@@ -106,6 +106,9 @@ class ScrollingActivity : AppCompatActivity() {
         salidaTimePicker.text = ""
         salidaDatePicker.text = ""
         salidaAnalogClock.text = ""
+        txtHora.setText("")
+        txtFechaPasado.setText("")
+        txtFechaHoraFuturo.setText("")
     }
 
 
